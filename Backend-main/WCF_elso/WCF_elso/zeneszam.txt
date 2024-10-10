@@ -1,0 +1,4 @@
+ZeneszamAz;ZeneszamCim;ZeneszamHossz
+1;gatya;123;1
+2;nadrág;321;2
+3;gatyaNadrag;11111;130
